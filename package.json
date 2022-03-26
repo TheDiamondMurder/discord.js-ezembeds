@@ -1,0 +1,25 @@
+{
+  "name": "discord.js-ezembeds",
+  "version": "1.0.0",
+  "description": "Simple way of making embeds in discord.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDiamondMurder/discord.js-ezembeds.git"
+  },
+  "keywords": [
+    "discord.js-ezembeds"
+  ],
+  "author": "TheDiamondMurder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDiamondMurder/discord.js-ezembeds/issues"
+  },
+  "homepage": "https://github.com/TheDiamondMurder/discord.js-ezembeds#readme"
+}
